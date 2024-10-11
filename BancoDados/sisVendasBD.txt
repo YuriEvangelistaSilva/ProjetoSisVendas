@@ -1,0 +1,68 @@
+create table cidade(
+	idcidade serial not null primary key,
+	nomecidade varchar(35)
+);
+
+create table cliente (
+	cpf bigint not null unique primary key,
+	nomecliente varchar(50) not null,
+	rg varchar(13),
+	nascimento date not null,
+	endereco text not null,
+	telefone varchar(14) not null,
+	idcidade int not null,
+	constraint fk_cliente_cidade foreign key(idcidade) references cidade(idcidade)
+	
+);
+
+create table venda(
+	idvenda serial not null unique primary key,
+	cpfcliente bigint not null,
+	datavenda date,
+	totalvenda money not null,
+	constraint fk_venda_cliente foreign key(cpfcliente) references cliente(cpf)
+);
+
+
+create table fornecedor(
+	cnpj varchar(18) not null unique primary key,
+	nomefornecedor varchar(60) not null,
+	endereco text not null,
+	telefone varchar(14) not null,
+	email varchar(60) not null,
+	idcidade int not null,
+	constraint fk_fornecedor_cidade foreign key(idcidade) references cidade(idcidade)
+);
+create table marca(
+	idmarca serial not null unique primary key,
+	nomemarca varchar(30)
+);
+create table tipo(
+	idtipo serial not null unique primary key,
+	nometipo varchar(30)
+);
+
+create table produto(
+	codigobarras varchar(13) not null unique primary key,
+	nomeproduto varchar(50) not null,
+	validade date not null,
+	precocusto money not null,
+	precovenda money not null,
+	descricao varchar(100) not null,
+	quantidade int not null,
+	cnpj varchar(18) not null,
+	idtipo int not null,
+	idmarca int not null,
+	constraint fk_produto_fornecedor foreign key(cnpj) references fornecedor(cnpj),
+	constraint fk_produto_tipo foreign key(idtipo) references tipo(idtipo),
+	constraint fk_produto_marca foreign key(idmarca) references marca(idmarca)
+);
+create table itensvenda(
+	idvenda serial not null,
+	codigobarras char(13) not null,
+	quantidade int not null,
+	valortotal money not null,
+	constraint pk_itens primary key (idvenda, codigobarras),
+	constraint fk_itens_venda foreign key(idvenda) references venda(idvenda),
+	constraint fk_itens_produto foreign key(codigobarras) references produto(codigobarras)
+);

@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\controller\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\controller\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|d:\\fatec_ads\\5-semestre\\labengenharia\\atividades\\sisvendas2\\sisvendas\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\telalogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|d:\\fatec_ads\\5-semestre\\labengenharia\\atividades\\sisvendas2\\sisvendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewcidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewtipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewtipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewmarca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\view\\viewtipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\view\\viewtipoproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\model\\modelocidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\model\\modelocidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\controller\\controllerfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\controller\\controllerfornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\model\\modelofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\model\\modelofornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\model\\modelproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\model\\modelproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\sisvendas\\controller\\controllerproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8779355B-EA0F-4708-8E0C-0FBFCC11ECF2}|SisVendas\\SisVendas.csproj|solutionrelative:sisvendas\\controller\\controllerproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "viewCidade.cs [Design]",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewCidade.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewCidade.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewCidade.cs [Design]",
+              "RelativeToolTip": "SisVendas\\View\\viewCidade.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:09:15.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\Form1.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\Form1.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\Form1.cs [Design]",
+              "RelativeToolTip": "SisVendas\\View\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:19.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "viewFornecedor.cs [Design]",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewFornecedor.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewFornecedor.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewFornecedor.cs [Design]",
+              "RelativeToolTip": "SisVendas\\View\\viewFornecedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:19.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "viewMarca.cs [Design]",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewMarca.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewMarca.cs",
+              "ToolTip": "C:\\Users\\RYZEN7DOJOIGE\\source\\repos\\SisVendas\\SisVendas\\View\\viewMarca.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:08:03.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "viewTipoProduto.cs [Design]",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewTipoProduto.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewTipoProduto.cs",
+              "ToolTip": "C:\\Users\\RYZEN7DOJOIGE\\source\\repos\\SisVendas\\SisVendas\\View\\viewTipoProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:08:44.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "viewCidade.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewCidade.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewCidade.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewCidade.cs",
+              "RelativeToolTip": "SisVendas\\View\\viewCidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:43:38.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viewFornecedor.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewFornecedor.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewFornecedor.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewFornecedor.cs",
+              "RelativeToolTip": "SisVendas\\View\\viewFornecedor.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "viewMarca.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewMarca.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewMarca.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewMarca.cs",
+              "RelativeToolTip": "SisVendas\\View\\viewMarca.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:49:27.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Controller\\Connection.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Controller\\Connection.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Controller\\Connection.cs",
+              "RelativeToolTip": "SisVendas\\Controller\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:25:31.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "telaLogin.cs [Design]",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\telaLogin.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\telaLogin.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\telaLogin.cs [Design]",
+              "RelativeToolTip": "SisVendas\\View\\telaLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:06:00.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Program.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Program.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Program.cs",
+              "RelativeToolTip": "SisVendas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:24:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "viewTipoProduto.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewTipoProduto.cs",
+              "RelativeDocumentMoniker": "SisVendas\\View\\viewTipoProduto.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\View\\viewTipoProduto.cs",
+              "RelativeToolTip": "SisVendas\\View\\viewTipoProduto.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:51:31.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "modeloCidade.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Model\\modeloCidade.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Model\\modeloCidade.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Model\\modeloCidade.cs",
+              "RelativeToolTip": "SisVendas\\Model\\modeloCidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:04:32.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "controllerFornecedor.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Controller\\controllerFornecedor.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Controller\\controllerFornecedor.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Controller\\controllerFornecedor.cs",
+              "RelativeToolTip": "SisVendas\\Controller\\controllerFornecedor.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:19.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "modeloFornecedor.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Model\\modeloFornecedor.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Model\\modeloFornecedor.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Model\\modeloFornecedor.cs",
+              "RelativeToolTip": "SisVendas\\Model\\modeloFornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:38:59.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "modelProduto.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Model\\modelProduto.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Model\\modelProduto.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Model\\modelProduto.cs",
+              "RelativeToolTip": "SisVendas\\Model\\modelProduto.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:19.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "controllerProduto.cs",
+              "DocumentMoniker": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Controller\\controllerProduto.cs",
+              "RelativeDocumentMoniker": "SisVendas\\Controller\\controllerProduto.cs",
+              "ToolTip": "D:\\fatec_ads\\5-semestre\\labEngenharia\\atividades\\SisVendas2\\SisVendas\\Controller\\controllerProduto.cs",
+              "RelativeToolTip": "SisVendas\\Controller\\controllerProduto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:17:19.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

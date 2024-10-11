@@ -1,0 +1,370 @@
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\SisVendas.exe.config
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\SisVendas.exe
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\SisVendas.pdb
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\netstandard.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.AppContext.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Collections.Concurrent.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Collections.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Collections.NonGeneric.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Collections.Specialized.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.ComponentModel.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.ComponentModel.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Console.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Data.Common.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.Contracts.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.Debug.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.Process.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.Tools.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.Tracing.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Drawing.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Dynamic.Runtime.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Globalization.Calendars.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Globalization.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Globalization.Extensions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.Compression.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.FileSystem.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.IsolatedStorage.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.Pipes.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Linq.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Linq.Expressions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Linq.Parallel.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Linq.Queryable.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.Http.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.NameResolution.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.NetworkInformation.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.Ping.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.Requests.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.Security.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.Sockets.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.WebSockets.Client.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Net.WebSockets.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.ObjectModel.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Reflection.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Reflection.Extensions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Reflection.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Resources.Reader.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Resources.ResourceManager.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Resources.Writer.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Extensions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Handles.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.InteropServices.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Numerics.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Claims.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.Principal.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Security.SecureString.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.Encoding.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.RegularExpressions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Overlapped.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Thread.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.ThreadPool.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Timer.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.ValueTuple.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Xml.ReaderWriter.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Xml.XDocument.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Xml.XmlDocument.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Xml.XmlSerializer.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Xml.XPath.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Npgsql.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Buffers.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Memory.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.Json.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\Npgsql.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Buffers.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Memory.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Text.Json.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.csprojAssemblyReference.cache
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.exe.config
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.Form1.resources
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.cache
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CopyComplete
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.exe
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.pdb
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.View.telaLogin.resources
+C:\DEV\C# - ADS\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewCidade.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\SisVendas.exe.config
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\SisVendas.exe
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\SisVendas.pdb
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Npgsql.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Text.Json.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\Npgsql.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Text.Json.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.Form1.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.View.telaLogin.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewCidade.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.cache
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CopyComplete
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.exe
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.pdb
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewMarca.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewTipoProduto.resources
+C:\Users\Aluno\Downloads\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewFornecedor.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\SisVendas.exe.config
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\SisVendas.exe
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\SisVendas.pdb
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Npgsql.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Buffers.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Memory.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Text.Json.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\Npgsql.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Buffers.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Memory.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Text.Json.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.Form1.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewFornecedor.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.View.telaLogin.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewMarca.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewTipoProduto.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewCidade.resources
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.cache
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.Up2Date
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.exe
+C:\Users\RYZEN7DOJOIGE\source\repos\SisVendas\SisVendas\obj\Debug\SisVendas.pdb
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\SisVendas.exe.config
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\SisVendas.exe
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\SisVendas.pdb
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Npgsql.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Buffers.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Memory.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Text.Json.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\Npgsql.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Buffers.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Collections.Immutable.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Memory.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Numerics.Vectors.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Text.Encodings.Web.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Text.Json.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Threading.Channels.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.Form1.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewFornecedor.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.View.telaLogin.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewMarca.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewTipoProduto.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.View.viewCidade.resources
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.cache
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.csproj.CopyComplete
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.exe
+D:\fatec_ads\labEngenharia\sisVendas\SisVendas\SisVendas\SisVendas\obj\Debug\SisVendas.pdb
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.Form1.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewFornecedor.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.telaLogin.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewMarca.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewTipoProduto.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewCidade.resources
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.cache
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.exe
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.pdb
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\SisVendas.exe.config
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\SisVendas.exe
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\SisVendas.pdb
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Npgsql.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Buffers.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Collections.Immutable.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Memory.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Numerics.Vectors.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Encodings.Web.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Json.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Channels.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Npgsql.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Buffers.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Collections.Immutable.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Memory.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Numerics.Vectors.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Encodings.Web.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Json.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Channels.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\fatec_ads\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.CopyComplete
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\SisVendas.exe.config
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\SisVendas.exe
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\SisVendas.pdb
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Npgsql.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Buffers.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Collections.Immutable.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Memory.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Numerics.Vectors.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Encodings.Web.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Json.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Channels.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\Npgsql.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Buffers.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Collections.Immutable.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Memory.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Numerics.Vectors.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Encodings.Web.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Text.Json.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Channels.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.AssemblyReference.cache
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.Form1.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.Properties.Resources.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewFornecedor.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.telaLogin.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewMarca.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewTipoProduto.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.View.viewCidade.resources
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.GenerateResource.cache
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.CoreCompileInputs.cache
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.csproj.Up2Date
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.exe
+D:\fatec_ads\5-semestre\labEngenharia\atividades\SisVendas2\SisVendas\obj\Debug\SisVendas.pdb

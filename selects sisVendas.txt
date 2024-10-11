@@ -1,0 +1,16 @@
+selects sisVendas
+
+select cliente V1
+select c.nomecliente as "Cliente", c.cpf as "CPF", c.rg as "Rg", c.nascimento as "Data Nacimento", c.endereco as "Endereço", c.telefone as "Telefone" 
+from cliente c inner join cidade cid
+on c.idcidade = cid.idcidade
+where c.nomecliente 
+like '%' 
+or c.cpf = 36272671382;
+_________________________________________________________________
+
+select clientev2
+ 
+select c.nomecliente as \"Cliente\" , c.cpf as \"Cpf\", c.rg as \"RG\", c.nascimento as \"Nacimento\", c.endereco as \"Endereço\" , c.telefone as as \"Telefone\"" +
+            "from cliente c inner join cidade cid on c.idcidade = cid.idcidade " +
+            "where c.nomecliente like @nomecliente
